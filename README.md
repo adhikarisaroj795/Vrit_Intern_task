@@ -66,6 +66,9 @@ No backend integration: The data persistence is handled locally in the browser u
 
 Responsiveness: While the board is functional on mobile and desktop, some minor UI tweaks might be needed for smaller screens.
 
+Live Demo Link
+You can view a live demo of the Kanban board https://vritinternkanbanboard.netlify.app/.
+
 Future Improvements
 Backend Integration: Implement a backend using a service like Firebase or a custom REST API to store columns and tasks persistently across devices.
 
